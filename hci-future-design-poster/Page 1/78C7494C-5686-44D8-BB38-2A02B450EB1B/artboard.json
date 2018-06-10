@@ -40,7 +40,7 @@
   "isFlowHome": false,
   "isLocked": false,
   "isVisible": true,
-  "layerListExpandedType": 0,
+  "layerListExpandedType": 2,
   "layers": [
     {
       "class": "shapeGroup",
@@ -100,10 +100,6 @@
     },
     {
       "class": "text",
-      "id": "FE736CFA-1D7C-4267-BB79-4E624FCEBDB4"
-    },
-    {
-      "class": "text",
       "id": "9499FA7D-7F3B-42BD-90BD-66A993FA8326"
     },
     {
@@ -153,6 +149,10 @@
     {
       "class": "text",
       "id": "731E3480-AAED-4668-8244-111CFAD9A155"
+    },
+    {
+      "class": "text",
+      "id": "02F4DA8D-5CFB-41B8-9F84-532CED666BA2"
     }
   ],
   "name": "A4",
