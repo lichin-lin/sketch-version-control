@@ -53,7 +53,7 @@
           "red": 0.3143693506717682
         },
         "fillType": 0,
-        "isEnabled": true,
+        "isEnabled": false,
         "position": 1,
         "thickness": 2
       }
