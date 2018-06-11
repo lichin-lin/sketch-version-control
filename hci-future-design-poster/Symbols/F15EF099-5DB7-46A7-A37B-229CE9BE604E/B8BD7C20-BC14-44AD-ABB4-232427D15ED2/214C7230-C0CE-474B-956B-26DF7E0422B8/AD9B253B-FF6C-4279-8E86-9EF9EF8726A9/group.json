@@ -1,0 +1,65 @@
+{
+  "_class": "group",
+  "do_objectID": "AD9B253B-FF6C-4279-8E86-9EF9EF8726A9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "height": 61,
+    "width": 326,
+    "x": 17,
+    "y": 46
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "FAFE823F-1B88-4089-B42D-92237191B776"
+    },
+    {
+      "class": "text",
+      "id": "34746C51-73E2-4C4B-91E9-D1608B8B849A"
+    },
+    {
+      "class": "text",
+      "id": "5DCDB975-0FC2-4DEF-B248-1353C324BE4F"
+    },
+    {
+      "class": "text",
+      "id": "E48C183B-2A4F-4DC3-9A92-E2DE491D8A58"
+    },
+    {
+      "class": "text",
+      "id": "234F9108-A411-41BA-B036-A3A2957249A0"
+    },
+    {
+      "class": "text",
+      "id": "34810202-FE1C-441D-A67A-C4B38DD41EE2"
+    }
+  ],
+  "name": "Weather Content",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  }
+}

@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "17A6B2CF-64E0-46EB-939E-7A760FAC82A5",
+  "_class": "group",
+  "do_objectID": "512BE1A5-3443-4E88-B411-D8A65E16CD96",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,19 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 13,
+    "width": 15,
+    "x": 3.076923076922867,
+    "y": 3.846153846153811
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -215,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -33,11 +26,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0BC00D85-EE09-47ED-9951-90AFBCDBF3EC"
+      "class": "shapeGroup",
+      "id": "0D7514F4-63BA-41D6-A852-4BB22253229A"
+    },
+    {
+      "class": "group",
+      "id": "D25AE211-6E16-4BDE-AD73-77636B89F371"
     }
   ],
-  "name": "ios",
+  "name": "Paper",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -45,14 +42,16 @@
   "shouldBreakMaskChain": false,
   "style": {
     "_class": "style",
+    "blur": {
+      "_class": "blur",
+      "center": "{0.5, 0.5}",
+      "isEnabled": false,
+      "motionAngle": 0,
+      "radius": 1.8,
+      "type": 0
+    },
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -343,
-    "guides": [
-    ]
   }
 }

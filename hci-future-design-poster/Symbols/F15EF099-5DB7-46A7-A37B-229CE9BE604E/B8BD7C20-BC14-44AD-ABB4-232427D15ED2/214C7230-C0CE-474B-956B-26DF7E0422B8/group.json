@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "17A6B2CF-64E0-46EB-939E-7A760FAC82A5",
+  "_class": "group",
+  "do_objectID": "214C7230-C0CE-474B-956B-26DF7E0422B8",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,19 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
+    "height": 146,
+    "width": 359,
     "x": 0,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -215,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -33,11 +26,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0BC00D85-EE09-47ED-9951-90AFBCDBF3EC"
+      "class": "shapeGroup",
+      "id": "4247B435-7448-4ECB-8C2E-A119EC7A9790"
+    },
+    {
+      "class": "text",
+      "id": "57000D50-245D-43C9-BAA0-DAEB958C25DB"
+    },
+    {
+      "class": "group",
+      "id": "AD9B253B-FF6C-4279-8E86-9EF9EF8726A9"
+    },
+    {
+      "class": "group",
+      "id": "ABE6EBA0-F2CD-46FB-94F1-C8FA50E2490B"
     }
   ],
-  "name": "ios",
+  "name": "Weather Widget",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,11 +53,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -343,
-    "guides": [
-    ]
   }
 }

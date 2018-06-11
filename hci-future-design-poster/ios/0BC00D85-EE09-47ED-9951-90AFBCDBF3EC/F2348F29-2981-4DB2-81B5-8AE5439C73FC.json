@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "F2348F29-2981-4DB2-81B5-8AE5439C73FC",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "19F97CC9-E69E-4B36-941C-2D58EB0138CB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "CF861F7B-D50B-47DB-8E85-29B3082BAF23",
+    "height": 146,
+    "width": 359,
+    "x": 8,
+    "y": 470
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Widgets/Reminders",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "A27B282F-23ED-4BF3-A7F9-729F91E53773",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "9D04831F-0C12-4BD3-B366-D85BF2C54A28",
+  "verticalSpacing": 0
+}

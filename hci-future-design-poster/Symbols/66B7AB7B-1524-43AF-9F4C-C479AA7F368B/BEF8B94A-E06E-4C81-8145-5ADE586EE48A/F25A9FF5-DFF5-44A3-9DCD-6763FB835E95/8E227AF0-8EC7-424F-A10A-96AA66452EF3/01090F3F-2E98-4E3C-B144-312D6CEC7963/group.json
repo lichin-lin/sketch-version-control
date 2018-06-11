@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "17A6B2CF-64E0-46EB-939E-7A760FAC82A5",
+  "_class": "group",
+  "do_objectID": "01090F3F-2E98-4E3C-B144-312D6CEC7963",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,19 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 20,
+    "width": 20,
+    "x": 8,
+    "y": 8
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -215,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -33,11 +26,19 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0BC00D85-EE09-47ED-9951-90AFBCDBF3EC"
+      "class": "shapeGroup",
+      "id": "07722A87-DA90-44CE-9022-18464F1B6919"
+    },
+    {
+      "class": "bitmap",
+      "id": "BB067C71-88D6-494E-8CB8-93B837A1D500"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "1F226ED6-920B-49AB-95EA-2E928ECD4534"
     }
   ],
-  "name": "ios",
+  "name": "Siri",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,11 +49,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -343,
-    "guides": [
-    ]
   }
 }

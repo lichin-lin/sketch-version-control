@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "17A6B2CF-64E0-46EB-939E-7A760FAC82A5",
+  "_class": "group",
+  "do_objectID": "CE03D78F-E973-4098-AA23-BA689042B889",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,19 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
+    "height": 79,
+    "width": 60,
+    "x": 267,
     "y": 0
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -215,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -33,11 +26,15 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0BC00D85-EE09-47ED-9951-90AFBCDBF3EC"
+      "class": "shapeGroup",
+      "id": "736732EB-3F83-4D81-A348-3CD7B48B6D52"
+    },
+    {
+      "class": "text",
+      "id": "8CF231C9-B132-4DB3-8BF1-F6B52ADB24E0"
     }
   ],
-  "name": "ios",
+  "name": "App",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,11 +45,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -343,
-    "guides": [
-    ]
   }
 }

@@ -1,6 +1,6 @@
 {
-  "_class": "page",
-  "do_objectID": "17A6B2CF-64E0-46EB-939E-7A760FAC82A5",
+  "_class": "group",
+  "do_objectID": "BA0F99D0-BB9B-4CB4-B540-0EE0BFFC5464",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -13,19 +13,12 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": false,
-    "height": 300,
-    "width": 300,
-    "x": 0,
-    "y": 0
+    "height": 92,
+    "width": 327,
+    "x": 16,
+    "y": 46
   },
-  "hasClickThrough": true,
-  "horizontalRulerData": {
-    "_class": "rulerData",
-    "base": -215,
-    "guides": [
-    ]
-  },
-  "includeInCloudUpload": true,
+  "hasClickThrough": false,
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -33,11 +26,23 @@
   "layerListExpandedType": 0,
   "layers": [
     {
-      "class": "artboard",
-      "id": "0BC00D85-EE09-47ED-9951-90AFBCDBF3EC"
+      "class": "group",
+      "id": "4CFFD84F-076A-4923-9CD4-F36954343742"
+    },
+    {
+      "class": "text",
+      "id": "0DFC8814-182B-4008-AC7A-4E894636D6FD"
+    },
+    {
+      "class": "text",
+      "id": "C7989255-1EA4-4452-A6FC-37B72208BF05"
+    },
+    {
+      "class": "text",
+      "id": "7D172AC5-75B6-4537-BB4F-5D9EBEDFEB10"
     }
   ],
-  "name": "ios",
+  "name": "Content",
   "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
@@ -48,11 +53,5 @@
     "endDecorationType": 0,
     "miterLimit": 10,
     "startDecorationType": 0
-  },
-  "verticalRulerData": {
-    "_class": "rulerData",
-    "base": -343,
-    "guides": [
-    ]
   }
 }

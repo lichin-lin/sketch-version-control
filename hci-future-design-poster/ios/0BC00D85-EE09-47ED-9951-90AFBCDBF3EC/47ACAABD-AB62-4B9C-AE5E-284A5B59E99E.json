@@ -1,0 +1,47 @@
+{
+  "_class": "symbolInstance",
+  "do_objectID": "47ACAABD-AB62-4B9C-AE5E-284A5B59E99E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "003B72BA-6C05-42C2-B9FD-342120253105",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "4BF6370B-CCF8-418B-A41F-FAFAE4A473C4",
+    "height": 146,
+    "width": 359,
+    "x": 8,
+    "y": 8
+  },
+  "horizontalSpacing": 0,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "name": "Widgets/Generic",
+  "nameIsFixed": false,
+  "overrideValues": [
+  ],
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "scale": 1,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "86D7898A-E65D-49AB-9377-617EC8AE5244",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "symbolID": "19518919-ACE5-4CBA-843F-3035B197B8C8",
+  "verticalSpacing": 0
+}
