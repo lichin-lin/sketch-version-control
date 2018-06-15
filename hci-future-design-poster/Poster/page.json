@@ -37,8 +37,8 @@
       "id": "78C7494C-5686-44D8-BB38-2A02B450EB1B"
     }
   ],
-  "name": "Page 1",
-  "nameIsFixed": false,
+  "name": "Poster",
+  "nameIsFixed": true,
   "resizingConstraint": 63,
   "resizingType": 0,
   "rotation": 0,
