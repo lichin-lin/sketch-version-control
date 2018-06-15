@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "AC74A846-0D91-43F3-9610-9F9EDBD7CDAB",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "E23B5471-9051-4AB6-885A-CCCA72C7AEBF",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "0E4FFCF3-D408-419D-9C0C-C0EA4DBBA2D5",
+    "height": 25,
+    "width": 86,
+    "x": 15,
+    "y": 90
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "B94434EE-FB5F-4589-B152-9E1FB772F873"
+    },
+    {
+      "class": "group",
+      "id": "E5B763C4-14AB-472B-80C7-14A4E75D027E"
+    },
+    {
+      "class": "group",
+      "id": "5D0CF60E-C195-4B49-A42B-8DA86E44E591"
+    }
+  ],
+  "name": "team",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "DF8C50F2-B078-4988-A6FB-586A1924A622",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

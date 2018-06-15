@@ -1,0 +1,66 @@
+{
+  "_class": "group",
+  "do_objectID": "655D54B4-FC6E-4085-BE7A-3A4C66F23C7E",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "15A4B73D-B836-4CFD-B697-5B05182AC1FB",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "2A46D99F-3740-4EC0-B547-272E72CA401C",
+    "height": 502,
+    "width": 303,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "group",
+      "id": "81B55EDE-F9AC-4626-8428-DF66280F833A"
+    },
+    {
+      "class": "group",
+      "id": "DD03C995-B967-472F-A9E9-FAF11AD3E92E"
+    },
+    {
+      "class": "group",
+      "id": "16A0313F-0222-4ADD-8F6A-2D6A69D1C3D2"
+    },
+    {
+      "class": "group",
+      "id": "8228B9C2-4592-4CA8-8167-D35D8365C45D"
+    }
+  ],
+  "name": "Main Card",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "EC977750-35DE-4BB6-8650-3B0E9A7A87E7",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

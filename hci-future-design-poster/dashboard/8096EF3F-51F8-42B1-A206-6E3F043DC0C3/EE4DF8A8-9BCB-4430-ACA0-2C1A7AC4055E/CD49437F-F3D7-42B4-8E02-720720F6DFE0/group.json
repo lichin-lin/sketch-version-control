@@ -1,0 +1,76 @@
+{
+  "_class": "group",
+  "do_objectID": "CD49437F-F3D7-42B4-8E02-720720F6DFE0",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "0DA7846E-5860-4859-A9B9-3A66A6547F56",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "5FB7F7F0-7CCD-45C0-B7E7-27E72626E05F",
+    "height": 22,
+    "width": 24,
+    "x": 48,
+    "y": 257
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "3D88199B-343A-461F-B3BB-49D7D6815879"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "6A051A90-7E5D-4F8E-B8E7-E9DF7C34A373"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "DE1C1EB6-9D06-4270-B795-B5BD7C81E32C"
+    }
+  ],
+  "name": "sessions icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BE978D9A-FFFE-440D-8185-0B90CC307733",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 22,
+            "enabled": 1,
+            "modelID": "constraint_e3ac3c83-dea6-4710-9e5e-076b48aa1d47",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 24
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_33445bd2-2bfd-43ef-80a3-695cf0d1e256",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}

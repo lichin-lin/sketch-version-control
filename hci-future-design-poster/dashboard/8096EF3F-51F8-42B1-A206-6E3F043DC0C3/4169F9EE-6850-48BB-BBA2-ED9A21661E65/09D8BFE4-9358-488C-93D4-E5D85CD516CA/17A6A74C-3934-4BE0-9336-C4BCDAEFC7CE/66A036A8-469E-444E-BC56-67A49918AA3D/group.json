@@ -1,0 +1,58 @@
+{
+  "_class": "group",
+  "do_objectID": "66A036A8-469E-444E-BC56-67A49918AA3D",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "FCF311A2-7E4E-443F-8C6E-120D6A3563F1",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "D20FBDBD-B305-4FF9-AD6B-63BF8A314D91",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "2E0799A7-597B-4F0C-BDE2-7E261CDFF0D8"
+    },
+    {
+      "class": "group",
+      "id": "8803D9A1-E7FD-43C8-B4DE-49673DC2F16B"
+    }
+  ],
+  "name": "send invitation button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "BB125955-02B1-4B44-BCE7-29D44D883B84",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

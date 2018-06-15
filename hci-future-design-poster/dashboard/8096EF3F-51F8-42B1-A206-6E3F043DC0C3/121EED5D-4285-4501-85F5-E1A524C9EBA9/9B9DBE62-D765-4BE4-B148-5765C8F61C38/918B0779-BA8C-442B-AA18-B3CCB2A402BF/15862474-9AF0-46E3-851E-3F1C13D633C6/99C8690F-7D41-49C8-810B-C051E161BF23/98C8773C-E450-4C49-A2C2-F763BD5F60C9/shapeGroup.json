@@ -1,0 +1,105 @@
+{
+  "_class": "shapeGroup",
+  "clippingMaskMode": 0,
+  "do_objectID": "98C8773C-E450-4C49-A2C2-F763BD5F60C9",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "3CD1F5D8-A3F8-4B8E-9980-69AF73362936",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "B11E178C-3DD9-4C3B-A073-DE6CD54398B0",
+    "height": 10.28646699810097,
+    "width": 5.989999771118164,
+    "x": -8.881784197001256e-16,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "hasClippingMask": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapePath",
+      "id": "8FA8FF4B-31D9-48AD-B713-03B1A11326B5"
+    }
+  ],
+  "name": "chevron",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "borders": [
+      {
+        "_class": "border",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 1,
+          "red": 1
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "position": 0,
+        "thickness": 0
+      }
+    ],
+    "do_objectID": "97878E94-B075-4E07-A34B-65285A10F28C",
+    "endDecorationType": 0,
+    "fills": [
+      {
+        "_class": "fill",
+        "color": {
+          "_class": "color",
+          "alpha": 1,
+          "blue": 1,
+          "green": 0.6313725490196078,
+          "red": 0.3019607843137255
+        },
+        "fillType": 0,
+        "isEnabled": true,
+        "noiseIndex": 0,
+        "noiseIntensity": 0,
+        "patternFillType": 1,
+        "patternTileScale": 1
+      }
+    ],
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 10.28647,
+            "enabled": 1,
+            "modelID": "constraint_d4cd165e-72a7-4e04-802e-2c70d9491a58",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 5.99
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_41688c0a-6266-4ea5-a999-a9ebbc3a0454",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  },
+  "windingRule": 1
+}

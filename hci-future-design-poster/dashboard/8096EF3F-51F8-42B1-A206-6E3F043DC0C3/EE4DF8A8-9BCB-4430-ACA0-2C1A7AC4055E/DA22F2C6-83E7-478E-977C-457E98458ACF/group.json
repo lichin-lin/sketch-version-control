@@ -1,0 +1,72 @@
+{
+  "_class": "group",
+  "do_objectID": "DA22F2C6-83E7-478E-977C-457E98458ACF",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "132C15D2-7C27-4021-99C2-985FB608C783",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": true,
+    "do_objectID": "9359CB8E-9291-479B-B916-9AEB6F07A6E1",
+    "height": 22,
+    "width": 23,
+    "x": 49,
+    "y": 476
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "E0F12100-9363-4A44-80D3-A5C97B0E069F"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "9033B9B1-89A9-4A04-87A0-BDE69FAF81A1"
+    }
+  ],
+  "name": "conversations icon",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "01680871-1957-4821-AF50-CEF4225A9D5C",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+        "constraints": {
+          "aspectRatio": {
+            "constant": 22,
+            "enabled": 1,
+            "modelID": "constraint_83e57913-cf42-4e3f-934a-af9fea25d0b6",
+            "model_class": "ADModelConstraint",
+            "model_version": 0.1,
+            "multiplier": 23
+          },
+          "automatic": 1,
+          "modelID": "viewConstraints_b1392ab2-acd5-48e6-b7a1-5319483259a1",
+          "model_class": "ADModelViewConstraints",
+          "model_version": 0.1
+        }
+      }
+    }
+  }
+}

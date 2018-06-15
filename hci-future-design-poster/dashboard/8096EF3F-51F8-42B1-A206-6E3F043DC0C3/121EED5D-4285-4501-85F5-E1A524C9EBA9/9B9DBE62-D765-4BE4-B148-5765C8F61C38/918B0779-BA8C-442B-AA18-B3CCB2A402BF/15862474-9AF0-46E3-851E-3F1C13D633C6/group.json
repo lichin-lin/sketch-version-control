@@ -1,0 +1,62 @@
+{
+  "_class": "group",
+  "do_objectID": "15862474-9AF0-46E3-851E-3F1C13D633C6",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "282E1991-A3A0-4097-9A57-77EB3568BE42",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "5E221631-F1E0-4417-B44F-FE850C4D14A6",
+    "height": 28,
+    "width": 184,
+    "x": 9,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "text",
+      "id": "501627CA-E1F6-4CEB-B531-107B9EB65C7E"
+    },
+    {
+      "class": "group",
+      "id": "99C8690F-7D41-49C8-810B-C051E161BF23"
+    },
+    {
+      "class": "group",
+      "id": "3D938D60-0DE0-4BE4-9176-178063F4F87A"
+    }
+  ],
+  "name": "Date selector",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "28836A01-4F4C-4A00-899E-A09EB949D98F",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

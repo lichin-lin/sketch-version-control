@@ -1,0 +1,63 @@
+{
+  "_class": "group",
+  "do_objectID": "9B9DBE62-D765-4BE4-B148-5765C8F61C38",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "BC34F300-07B0-4BB0-803E-D8FBFE7D4576",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "EA47043A-6156-403B-98AE-AC61C6DBB645",
+    "height": 289,
+    "width": 204,
+    "x": 19,
+    "y": 150
+  },
+  "hasClickThrough": true,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "B96F2BEE-4D5C-40D5-B769-3AB9A526DA79"
+    },
+    {
+      "class": "group",
+      "id": "3C7ECB0F-7D99-4054-BCC5-5E8AD16F6054"
+    },
+    {
+      "class": "group",
+      "id": "918B0779-BA8C-442B-AA18-B3CCB2A402BF"
+    }
+  ],
+  "name": "calendar",
+  "nameIsFixed": true,
+  "originalObjectID": "6139114C-12B9-4CCA-88C8-994DAFA636B8",
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "do_objectID": "7935DB98-88AE-4380-BA09-6F2601D1C2CB",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}

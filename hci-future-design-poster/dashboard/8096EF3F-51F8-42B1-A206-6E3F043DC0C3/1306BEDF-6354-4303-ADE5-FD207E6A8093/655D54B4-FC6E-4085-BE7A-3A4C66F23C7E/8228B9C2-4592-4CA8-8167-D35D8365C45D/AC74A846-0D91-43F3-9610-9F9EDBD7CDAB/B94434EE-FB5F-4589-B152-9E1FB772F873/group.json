@@ -1,0 +1,68 @@
+{
+  "_class": "group",
+  "do_objectID": "B94434EE-FB5F-4589-B152-9E1FB772F873",
+  "exportOptions": {
+    "_class": "exportOptions",
+    "do_objectID": "7C1D468E-C458-4157-BBBC-8FA9E2943D0A",
+    "exportFormats": [
+    ],
+    "includedLayerIds": [
+    ],
+    "layerOptions": 0,
+    "shouldTrim": false
+  },
+  "frame": {
+    "_class": "rect",
+    "constrainProportions": false,
+    "do_objectID": "1CE0794C-5C20-4F61-8385-E3AD8998D8E7",
+    "height": 24,
+    "width": 24,
+    "x": 0,
+    "y": 0
+  },
+  "hasClickThrough": false,
+  "isFlippedHorizontal": false,
+  "isFlippedVertical": false,
+  "isLocked": false,
+  "isVisible": true,
+  "layerListExpandedType": 0,
+  "layers": [
+    {
+      "class": "shapeGroup",
+      "id": "53ED05E7-272A-4CB1-A533-80E24BF17F2C"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "F342A79A-E601-4248-9155-81EB065299C7"
+    },
+    {
+      "class": "shapeGroup",
+      "id": "FD902629-EA47-4353-B6B2-A18D0248634B"
+    }
+  ],
+  "name": "send invitation button",
+  "nameIsFixed": true,
+  "resizingConstraint": 63,
+  "resizingType": 0,
+  "rotation": 0,
+  "shouldBreakMaskChain": false,
+  "style": {
+    "_class": "style",
+    "contextSettings": {
+      "_class": "graphicsContextSettings",
+      "blendMode": 0,
+      "do_objectID": "5C4148D9-1044-4EEC-B0EF-738DDBB555A9",
+      "opacity": 0.74
+    },
+    "do_objectID": "CDCAFD42-179F-44CA-AB01-006D6DEDB94D",
+    "endDecorationType": 0,
+    "miterLimit": 10,
+    "startDecorationType": 0
+  },
+  "userInfo": {
+    "com.animaapp.stc-sketch-plugin": {
+      "kModelPropertiesKey": {
+      }
+    }
+  }
+}
