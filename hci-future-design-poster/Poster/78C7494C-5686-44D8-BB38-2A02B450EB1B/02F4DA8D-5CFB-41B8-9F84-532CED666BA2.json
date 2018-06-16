@@ -16,7 +16,7 @@
           "MSAttributedStringFontAttribute": {
             "_class": "fontDescriptor",
             "attributes": {
-              "name": "HelveticaNeue-Medium",
+              "name": "AbadiMT-CondensedExtraBold",
               "size": 30
             }
           },
@@ -49,12 +49,12 @@
     "_class": "rect",
     "constrainProportions": false,
     "do_objectID": "9B0C0B11-A629-4CD7-89DE-82E9906B2F8B",
-    "height": 36,
-    "width": 505,
+    "height": 34,
+    "width": 432,
     "x": 26,
-    "y": 21
+    "y": 24
   },
-  "glyphBounds": "{{2, 7}, {501, 29}}",
+  "glyphBounds": "{{1, 5}, {429, 28}}",
   "isFlippedHorizontal": false,
   "isFlippedVertical": false,
   "isLocked": false,
@@ -87,7 +87,7 @@
         "MSAttributedStringFontAttribute": {
           "_class": "fontDescriptor",
           "attributes": {
-            "name": "HelveticaNeue-Medium",
+            "name": "AbadiMT-CondensedExtraBold",
             "size": 30
           }
         },
